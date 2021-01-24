@@ -15,7 +15,7 @@ Different injection scale will produce different denoising effects. A good choic
 Note that this will automatically train a SinGAN model on the image with a reconstruction factor that is specific to Image Denoising task.
 
 ### Existing Deep Learning Approahes for Image Denoising
-We provied To Deep_Learning_Image_Denoising.ipynb that contains a benchmark of existing deep learning approaches for Image Denoising  
+We provied ```Deep_Learning_Image_Denoising.ipynb``` that contains a benchmark of existing deep learning approaches for Image Denoising  
 
 ### Additional Notebooks
-For traditional Image Denoising approaches, we use IPOL Demos. SinGAN_Reproduce.ipynb contains some code to reproduce the results of the official Github Repo cited above.
+For traditional Image Denoising approaches, we used IPOL Demos. ```SinGAN_Reproduce.ipynb``` contains some code to reproduce the results of the official Github Repo cited above.
