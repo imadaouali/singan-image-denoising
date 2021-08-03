@@ -7,7 +7,7 @@
 To perform image denoising over a noisy image using SinGAN (Please see SinGAN.ipynb for examples):
 
 ```
-python denoising.py --input_name <training_image_file_name> --ref_name <noisy_image_file_name> --paint_start_scale <scale to inject>
+python denoising.py --input_name <training_image_file_name> --ref_name <noisy_image_file_name> --denoising_start_scale <scale to inject>
 
 ```
 Different injection scale will produce different denoising effects. A good choice of injection scale would be arround 2. 
